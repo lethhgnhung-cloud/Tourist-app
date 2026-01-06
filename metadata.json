@@ -1,0 +1,9 @@
+{
+  "name": "Vietnam Tourist Card",
+  "description": "A comprehensive travel companion app for tourists in Vietnam offering currency exchange, payments, and local utilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
